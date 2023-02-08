@@ -19,6 +19,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     suma(1,2)
-    print_hi('PyCharm')
+    print_hi('PyCharmDEMIERDA')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
